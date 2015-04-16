@@ -1,9 +1,8 @@
 ---
 layout: post
-title: The Answer
+title: Linux, Docker and Go
 ---
 
-
-###The answer!
+The answer:
 
 ![](https://pbs.twimg.com/media/CBDtnUnWEAAc6LI.png:large)
